@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed -n '251,270p' /Users/amalchandra/Desktop/ALARIC/WORKS/PEROSNAL/PORTFOLIO_2026/CLAUDE/NEWW/MAIN_01_new_local/css/style.css)",
+      "Bash(sed -n '163,175p' /Users/amalchandra/Desktop/ALARIC/WORKS/PEROSNAL/PORTFOLIO_2026/CLAUDE/NEWW/MAIN_01_new_local/css/style.css)",
+      "Bash(git -C /Users/amalchandra/Desktop/ALARIC/WORKS/PEROSNAL/PORTFOLIO_2026/CLAUDE/NEWW/MAIN_01_new_local status)",
+      "Bash(git -C /Users/amalchandra/Desktop/ALARIC/WORKS/PEROSNAL/PORTFOLIO_2026/CLAUDE/NEWW/MAIN_01_new_local log --oneline -3)",
+      "Bash(git -C /Users/amalchandra/Desktop/ALARIC/WORKS/PEROSNAL/PORTFOLIO_2026/CLAUDE/NEWW/MAIN_01_new_local add index.html assets/images/about-img-1.2.webp assets/images/bumble-jam-thumb-1.2.webp assets/images/healr-thumb-1.2.webp assets/images/healr-thumb-mobile-1.2.webp assets/videos/hero-knot-2.1.webm)",
+      "Bash(git -C /Users/amalchandra/Desktop/ALARIC/WORKS/PEROSNAL/PORTFOLIO_2026/CLAUDE/NEWW/MAIN_01_new_local commit -m ' *)",
+      "Bash(git -C /Users/amalchandra/Desktop/ALARIC/WORKS/PEROSNAL/PORTFOLIO_2026/CLAUDE/NEWW/MAIN_01_new_local push origin main)"
+    ]
+  }
+}
