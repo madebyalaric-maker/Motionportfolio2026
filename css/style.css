@@ -317,6 +317,10 @@ a {
   background-image: url('../assets/gifs/entri-splash-screen/entri-splash-thumb.gif');
 }
 
+.project-card-beautician {
+  background-image: url('../assets/gifs/beautician-ad/beautician-thumb.gif');
+}
+
 /* ===== Mini Cards Grid ===== */
 .mini-cards-grid {
   width: 69.3vw;
